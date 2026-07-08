@@ -13,13 +13,15 @@
 
 ---
 
-### 🧑‍💻 About Me
+What I work with
+💻 Full-Stack Development (.NET, ASP.NET Core, Angular)
+🗄️ SQL Server & PostgreSQL
+☁️ Azure & Cloud Services
+🔐 REST APIs, Authentication & System Design
+🤖 AI/ML & Data Analysis
+📈 Problem Solving & Algorithms
 
-- 🎓 **Computer Science** graduate with a focus on software engineering
-- 💼 Building **full-stack applications** with .NET and Angular
-- 🤖 Experienced in **AI/ML & NLP** — built real-time detection systems and sentiment analysis tools
-- 📊 Strong background in **Data Science** — predictive modeling, text analytics, and data-driven solutions
-- 🚀 Currently working on **freelance projects** involving cloud-native solutions with Azure
+I'm always looking to learn new technologies, improve my engineering skills, and build software that makes a difference
 
 ---
 
