@@ -58,29 +58,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
-### 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**Invoice Management System**](https://github.com/A-Medhat/invoice-management-system) | AI-powered platform automating 100+ invoices/month with Azure AI document extraction | .NET 8 · Angular 19 · Azure AI · PostgreSQL · Docker |
-| [**AI Store Security System**](https://github.com/A-Medhat/AI-Based-Store-Security-and-Safety-GP) | Real-time shoplifting & fire detection using computer vision ⭐4 | Python · YOLO · OpenCV · Deep Learning |
-| [**Real Estate Management**](https://github.com/A-Medhat/RealEstatePropertyManagementSystem) | Property management system for listings, tenants & leases | ASP.NET Core · MVC · EF Core |
-| [**Arabic Sentiment Analysis**](https://github.com/A-Medhat/Analyzing-Sentiments-in-Arabic-Reviews) | NLP system for analyzing sentiments in Arabic text reviews | Python · NLP · Machine Learning |
-| [**Film Popularity Prediction**](https://github.com/A-Medhat/Predicting-Film-Popularity) | ML model predicting film success from cast, genre, budget & timing | Python · scikit-learn · Data Science |
+
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Medhat&show_icons=true&theme=default&hide_border=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Medhat&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
-
----
 
 <p align="center">
   <em>Open to opportunities — let's connect!</em>
