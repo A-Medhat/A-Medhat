@@ -14,13 +14,13 @@
 ---
 
 What I work with
-💻 Full-Stack Development (.NET, ASP.NET Core, Angular)
-🗄️ SQL Server & PostgreSQL
-☁️ Azure & Cloud Services
-🔐 REST APIs, Authentication & System Design
-🤖 AI/ML & Data Analysis
-📈 Problem Solving & Algorithms
-
+💻 Full-Stack Development (.NET, ASP.NET Core, Angular)<br/>
+🗄️ SQL Server & PostgreSQL<br/>
+☁️ Azure & Cloud Services<br/>
+🔐 REST APIs, Authentication & System Design<br/>
+🤖 AI/ML & Data Analysis<br/>
+📈 Problem Solving & Algorithms<br/>
+<br/><br/>
 I'm always looking to learn new technologies, improve my engineering skills, and build software that makes a difference
 
 ---
